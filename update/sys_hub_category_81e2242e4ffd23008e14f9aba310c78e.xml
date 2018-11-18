@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_category">
+    <sys_hub_category action="INSERT_OR_UPDATE">
+        <name>Taskhandling</name>
+        <order>100</order>
+        <sys_class_name>sys_hub_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-11-18 15:23:32</sys_created_on>
+        <sys_id>81e2242e4ffd23008e14f9aba310c78e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Taskhandling</sys_name>
+        <sys_package display_value="NeedIt Spoke" source="x_222693_needit_sp">c881c4a24fbd23008e14f9aba310c75b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Spoke">c881c4a24fbd23008e14f9aba310c75b</sys_scope>
+        <sys_update_name>sys_hub_category_81e2242e4ffd23008e14f9aba310c78e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-11-18 15:23:32</sys_updated_on>
+    </sys_hub_category>
+    <sys_translated_text action="delete_multiple" query="documentkey=81e2242e4ffd23008e14f9aba310c78e"/>
+</record_update>
